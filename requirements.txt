@@ -1,0 +1,5 @@
+pypdf>=4.0
+Pillow>=10.0
+pytesseract>=0.3.10
+# optional neural intent layer (multilingual sentence embeddings, runs locally):
+# sentence-transformers>=2.7
